@@ -3,4 +3,4 @@ Hello World!
 Good bye!
 Line from user2
 Another line from user1
-some new feature
+Some change
